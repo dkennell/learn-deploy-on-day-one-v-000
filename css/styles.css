@@ -133,6 +133,14 @@ a:visited {
   height: 400px;
 }
 
+#david-kennell-cover{
+  background-image: url(http://i.imgur.com/6sZfC3n.jpg?1);
+}
+
+#david-kennell-card {
+ background-image: url(http://i.imgur.com/EzGOTXD.jpg?1);
+}
+
 #justin-lefurjah-cover{
    background-image: url("http://i.imgur.com/TNP2xUy.jpg");
 }
